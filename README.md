@@ -1,0 +1,1 @@
+I have implemented an interface comprising sections for invoice payment, cash withdrawal, depositing funds, and balance inquiry. Access to this interface requires entering a password. Upon three consecutive incorrect password entries, the card becomes blocked.
