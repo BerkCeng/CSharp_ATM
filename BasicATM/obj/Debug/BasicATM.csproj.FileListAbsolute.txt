@@ -1,0 +1,7 @@
+C:\Users\gundu\source\repos\BasicATM\BasicATM\bin\Debug\BasicATM.exe.config
+C:\Users\gundu\source\repos\BasicATM\BasicATM\bin\Debug\BasicATM.exe
+C:\Users\gundu\source\repos\BasicATM\BasicATM\bin\Debug\BasicATM.pdb
+C:\Users\gundu\source\repos\BasicATM\BasicATM\obj\Debug\BasicATM.csproj.AssemblyReference.cache
+C:\Users\gundu\source\repos\BasicATM\BasicATM\obj\Debug\BasicATM.csproj.CoreCompileInputs.cache
+C:\Users\gundu\source\repos\BasicATM\BasicATM\obj\Debug\BasicATM.exe
+C:\Users\gundu\source\repos\BasicATM\BasicATM\obj\Debug\BasicATM.pdb
